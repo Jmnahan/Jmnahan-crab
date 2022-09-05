@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jmnahan-crab/static/css/main.b45566c1.css",
+    "main.js": "/Jmnahan-crab/static/js/main.d963deb1.js",
+    "static/js/787.b593abad.chunk.js": "/Jmnahan-crab/static/js/787.b593abad.chunk.js",
+    "static/media/logo.svg": "/Jmnahan-crab/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Jmnahan-crab/index.html",
+    "main.b45566c1.css.map": "/Jmnahan-crab/static/css/main.b45566c1.css.map",
+    "main.d963deb1.js.map": "/Jmnahan-crab/static/js/main.d963deb1.js.map",
+    "787.b593abad.chunk.js.map": "/Jmnahan-crab/static/js/787.b593abad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b45566c1.css",
+    "static/js/main.d963deb1.js"
+  ]
+}
